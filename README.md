@@ -33,13 +33,8 @@ while True:
 </details>
 
 <details><summary>Snake Eating Contributions</summary>
-<p>
-    
-## Snake	:snake: eating my contribution graph :world_map:
-    
-![snake gif](https://github.com/mahipurohit1/mahipurohit1/blob/output/github-contribution-grid-snake.gif)
-    
-</p>
+
+    <p align='center'><img src='https://raw.githubusercontent.com/mahipurohit1/mahipurohit1/output/github-contribution-grid-snake.svg'></p>
 </details>
 
 ![Henu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahipurohit1&show_icons=true&theme=radical)
