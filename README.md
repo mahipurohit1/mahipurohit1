@@ -31,15 +31,20 @@ while True:
 
 </p>
 </details>
-
-<details><summary>Snake Eating Contributions</summary>
-
-    <p align='center'><img src='https://raw.githubusercontent.com/mahipurohit1/mahipurohit1/output/github-contribution-grid-snake.svg'></p>
+<details>
+<p>
+    
+## Snake	:snake: eating my contribution graph :world_map:
+    
+![snake gif](https://github.com/mahipurohit1/mahipurohit1/blob/output/github-contribution-grid-snake.gif)
+    
+</p>
 </details>
 
-![Henu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahipurohit1&show_icons=true&theme=radical)
 
-![Henu's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahipurohit1&)  
+![mahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahipurohit1&show_icons=true&theme=radical)
+
+![mahi's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahipurohit1&)  
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mahipurohit1">
 
