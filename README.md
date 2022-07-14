@@ -32,13 +32,7 @@ while True:
 </p>
 </details>
 
-<p>
-    
-## Snake	:snake: eating my contribution graph :world_map:
-    
-![snake gif](https://github.com/mahipurohit1/mahipurohit1/blob/output/github-contribution-grid-snake.gif)
-    
-</p>
+
 
 
 
