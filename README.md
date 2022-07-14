@@ -31,7 +31,7 @@ while True:
 
 </p>
 </details>
-<details>
+
 <p>
     
 ## Snake	:snake: eating my contribution graph :world_map:
@@ -39,7 +39,7 @@ while True:
 ![snake gif](https://github.com/mahipurohit1/mahipurohit1/blob/output/github-contribution-grid-snake.gif)
     
 </p>
-</details>
+
 
 
 ![mahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahipurohit1&show_icons=true&theme=radical)
