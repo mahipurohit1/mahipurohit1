@@ -5,12 +5,11 @@
     - Using below technologies...
       - 🌱 javascript
       - 🌱 PHP Developer
-          - Also currently doing internship at @Jemistry Solutions as PHP Intern.
       - 🌱 Want to learn node-js
 - :dart: I'm an UG person who want to explore :crystal_ball: as much as it can be explored.
 - :desktop_computer: I’m looking to collaborate on any project, repository in which we have to deal with backend.
 - 💬 Ask me about comments, i just love them to hear and then throw it out.
-- 📫 How to reach me: oh common, it's not 18's. You'll definitely find a way to contant me.
+- 📫 How to reach me: oh common, it's not 18's. You'll definitely find a way to contact me.
 - ⚡ Fun fact: I'm obssed with this tool and i visit my profile at least once a day.
 - :scroll: My clear funda of my life
 <details><summary>CLICK ME TO GET FUNDA</summary>
