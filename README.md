@@ -5,7 +5,7 @@
     - Using below technologies...
       - 🌱 javascript
       - 🌱 React
-      - 🌱 PHP Developer
+      - 🌱 PHP 
       - 🌱 node-js
 - :dart: I'm an UG student who want to explore :crystal_ball: as much as it can be explored.
 - :desktop_computer: I’m looking to collaborate on any project, repository in which we have to deal with front-end.
