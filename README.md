@@ -9,7 +9,6 @@
       - 🌱 Redux 
       - 🌱 TypeScript
       - 🌱 Next Js
-      - 🌱 Node-js
       - 🌱 Sql
       - 🌱 AJAX
 - :dart: I'm an UG student who want to explore :crystal_ball: as much as it can be explored.
