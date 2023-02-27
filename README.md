@@ -16,7 +16,7 @@
 - 💬 Ask me about comments, i just love them to hear and then throw it out.
 
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahipurohit1" alt="mahipurohit1" /></p>
+
 
 
 
